@@ -1,0 +1,7 @@
+error_NoLogin = [101, "请先登录"]
+error_UserExist = [1002, '该用户已存在,注册失败']
+error_TelIsNull = [1003, '手机号不能为空']
+error_TelOrPwdError = [1004, '手机号或密码错误']
+error_UnKnown = [1005, '未知错误']
+error_UnKnown_YinShi = [1006, '视频服务错误']
+error_parameter_isNone = [1007, '参数不可为空']
